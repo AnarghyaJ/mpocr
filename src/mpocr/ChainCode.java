@@ -2,8 +2,14 @@ class ChainCode extends FeatureSet
 {
   static width;
   static height;
+  private double [] code;
   
-  Segment
+  public ChainCode(Segment s)
+  {
+    
+  
+  }
+  
   
 
 
